@@ -1,1 +1,2 @@
 Configuració branca desenvolupament
+Contingut configuracio
